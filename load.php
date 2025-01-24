@@ -1,3 +1,2 @@
-<?php
-    echo "Plugin 2 importado!";
-    echo "<br>";
+<p>Plugin_2 Carregado do diretório: <?= __DIR__ ?></p>
+<p>versão GitHub</p>
